@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Jia Huaiyu
+# 👋 Hi there! I'm virusLuke3
 
 <img align="right" width="260" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -26,7 +26,7 @@
 
 Welcome to my GitHub page!  
 
-I am **Jia Huaiyu (贾怀宇)**, currently finishing my **FinTech PhD at HKUST (Guangzhou)**.
+I am **virusLuke3**, currently finishing my **FinTech PhD at HKUST (Guangzhou)**.
 
 My research sits at the intersection of **Blockchain and Artificial Intelligence**, with a strong focus on:
 
